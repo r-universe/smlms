@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pguIMP"]
+	path = pguIMP
+	url = https://github.com/smlms/pguimp
+	shallow = true
+	registered = true
